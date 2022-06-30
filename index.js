@@ -8,6 +8,7 @@ class Breakfast{
 }
 const bfast = new Breakfast("eggs", "juice");
 class Lunch{
+    #desert
     constructor(salad,soup, drink) {
         this.salad = salad
         this.soup = soup
